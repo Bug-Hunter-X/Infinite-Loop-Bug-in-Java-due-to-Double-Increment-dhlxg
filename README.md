@@ -1,0 +1,1 @@
+This repository contains a Java program exhibiting a subtle infinite loop bug.  The bug arises from a double increment of the loop counter within the loop's body and a conditional break statement. The solution demonstrates how to resolve this issue by carefully managing the counter's increment and ensuring the correct loop termination condition is met.
